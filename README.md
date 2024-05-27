@@ -1,1 +1,1 @@
-# calculator [Click Me](https://404nix.github.io/Calculator)
+# Calculator [Click Me](https://404nix.github.io/Calculator)
