@@ -1,2 +1,2 @@
-           // Calculator //
-# https://404nix.github.io/Calculator
+# calculator
+ [Click Me](https://404nix.github.io/Calculator)
