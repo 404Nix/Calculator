@@ -16,3 +16,8 @@ function calculate(){
         display.value = "Error";
     }
 }
+
+function delast(){
+    let curr_val = display.value;
+    display.value = curr_val.slice(0,-1);
+}

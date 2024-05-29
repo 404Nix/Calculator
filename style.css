@@ -61,6 +61,18 @@ button{
     background-color: hsl(80, 61%, 60%);
 }
 
+.clear{
+    background-color: hsl(80, 61%, 40%);
+}
+
+.clear:hover{
+    background-color: hsl(80, 61%, 50%);
+}
+
+.clear:active{
+    background-color: hsl(80, 61%, 60%);
+}
+
 button:hover{
     background-color: hsl(0, 0%, 50%);
 }
